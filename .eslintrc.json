@@ -23,8 +23,6 @@
         }
     },
     "rules": {
-        "require-jsdoc": "off",
-        "react/prop-types": "off"
-        
+        "require-jsdoc": "off"
     }
 }
